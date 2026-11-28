@@ -40,4 +40,8 @@ This repository can be extended with module-specific configuration instructions,
 
 This repository is one of the communication components of the MAX open-source robotics platform developed by **Mensch Robotics Private Limited**.
 
+## License
+
+This project is licensed under the **Apache License 2.0**.
+
 **Main Organization:** https://github.com/mensch777robotics
